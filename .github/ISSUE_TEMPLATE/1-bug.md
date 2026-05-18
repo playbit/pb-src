@@ -14,4 +14,4 @@ about: Report a bug or issue you've encountered.
 ## Environment
 
 - Host platform OS version:
-- Playbit version:
+- Playbit Runtime version:
